@@ -7,7 +7,7 @@
 This repository contains starter code for Fashion Studio Website in ReactJS. <br />
 
 For the **Demo** and **Final Code** checkout this link👇: <br />
-<a href="https://devdreaming.com/videos/build-stunning-fashion-studio-website-with-reactJS-locomotive-scroll-gsap" target="_blank" rel="dofollow">🔥Build a Stunning Fashion Studio Website with React JS</a> ![YouTube Video Views](https://img.shields.io/youtube/views/Ra1Fsa9YJCk?style=social) </br >
+<a href="https://devdreaming.com/videos/build-stunning-fashion-studio-website-with-reactJS-locomotive-scroll-gsap" target="_blank">🔥Build a Stunning Fashion Studio Website with React JS</a> ![YouTube Video Views](https://img.shields.io/youtube/views/Ra1Fsa9YJCk?style=social) </br >
 
 
 ### Images of The Fashion Studio Website:
