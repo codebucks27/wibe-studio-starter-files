@@ -4,10 +4,35 @@
 ![GitHub forks](https://img.shields.io/github/forks/codebucks27/wibe-studio-starter-files?style=social&logo=KashFlow&&label=Forks)&nbsp;&nbsp;
 ![Github Followers](https://img.shields.io/github/followers/codebucks27.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
 
-This repository contains starter code for Fashion Studio Website in ReactJS. <br />
+This repository contains the starter files for building the Fashion Studio website in the original tutorial. It starts with the Create React App welcome screen and includes the project assets. The final code and starter files are available in public repositories for free.
 
-For the **Demo** and **Final Code** checkout this link👇: <br />
-<a href="https://devdreaming.com/videos/build-stunning-fashion-studio-website-with-reactJS-locomotive-scroll-gsap" target="_blank">🔥Build a Stunning Fashion Studio Website with React JS</a> ![YouTube Video Views](https://img.shields.io/youtube/views/Ra1Fsa9YJCk?style=social) </br >
+- [Final code](https://github.com/codebucks27/wibe-studio)
+- [Starter files (this repository)](https://github.com/codebucks27/wibe-studio-starter-files)
+- [Watch the YouTube tutorial](https://youtu.be/Ra1Fsa9YJCk)
+- [Tutorial article and code links](https://devdreaming.com/videos/build-stunning-fashion-studio-website-with-reactJS-locomotive-scroll-gsap#code-links)
+- [Live demo of the finished website](https://wibe-studio.netlify.app/)
+
+### Run Locally
+
+Install Node.js and npm. This starter keeps the original React 17 / Create React App 5 setup; the final repository includes a newer Bun / Vite setup. No API keys or environment variables are required.
+
+```bash
+git clone https://github.com/codebucks27/wibe-studio-starter-files.git
+cd wibe-studio-starter-files
+npm ci
+npm start        # start dev server at http://localhost:3000
+```
+
+Keep `package-lock.json` when installing so the checked-in dependency versions are used.
+
+### Build and Test
+
+```bash
+npm run build                       # production build to ./build
+npm test -- --watchAll=false --runInBand
+```
+
+To preview the production build, serve the contents of `build` with a static file server. For static hosting, use `npm run build` as the build command and `build` as the publish directory. The screenshots below show the finished website you will build during the tutorial.
 
 
 ### Images of The Fashion Studio Website:
@@ -16,6 +41,10 @@ For the **Demo** and **Final Code** checkout this link👇: <br />
 ![HOME](https://github.com/codebucks27/wibe-studio-starter-files/blob/main/Wibe-Home-Moblie.png)
 ![ABOUT](https://github.com/codebucks27/wibe-studio-starter-files/blob/main/Wibe-About-Mobile.png)
 
+
+### Code and Media Licensing
+
+A code license has not yet been specified in this repository. Free public access does not itself grant permission to reuse or redistribute the code. Photos and video have separate terms; the creator credits below are not per-asset license records. Check the original asset pages and their terms before reusing the media.
 
 ### Resources Used in This Project
 
